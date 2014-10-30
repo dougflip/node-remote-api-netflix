@@ -1,0 +1,9 @@
+{
+  "name": "node-remote-api-netflix",
+  "version": "0.1.0",
+  "description": "Netflix plugin for Node Remote",
+  "main": "src/index",
+  "scripts": {},
+  "author": "dougflip",
+  "license": "MIT"
+}
