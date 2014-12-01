@@ -3,6 +3,10 @@
   "version": "0.1.0",
   "description": "Netflix plugin for Node Remote",
   "main": "src/index",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dougflip/node-remote-api-netflix.git"
+  },
   "scripts": {},
   "author": "dougflip",
   "license": "MIT"
