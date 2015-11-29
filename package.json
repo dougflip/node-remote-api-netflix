@@ -9,5 +9,8 @@
   },
   "scripts": {},
   "author": "dougflip",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "ramda": "^0.18.0"
+  }
 }
